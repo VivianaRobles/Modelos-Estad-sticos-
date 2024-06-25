@@ -1,4 +1,4 @@
-# Modelos-Estadasticos-
+# Modelos Estadísticos
 TEMARIO:
 I: Variables aleatorias discretas
     1.1 Fenómenos determinísticos y fenómenos aleatorios.
